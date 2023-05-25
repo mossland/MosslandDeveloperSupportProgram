@@ -21,7 +21,7 @@
 
 ## Operating Rules
 - As the Developer Support Program involves a collaborative project with multiple developers, the etiquette of each individual participant is crucial.
-- The basic operating rules are specified in the [COMMUNITY_RULE.md]((https://github.com/mossland/MosslandDeveloperSupportProgram/COMMUNITY_RULE.md)) file of the repository.
+- The basic operating rules are specified in the [COMMUNITY_RULE.md](https://github.com/mossland/MosslandDeveloperSupportProgram/blob/main/COMMUNITY_RULE.md) file of the repository.
 
 - - -
 
@@ -45,4 +45,4 @@
 
 ## 운영 규칙
 - 개발자 지원 프로그램은 다수의 개발자가 참여하는 공동 프로젝트인 만큼 참여하는 개개인의 에티켓이 중요합니다.
-- 기본적인 운영 규칙은 레포지토리의 [COMMUNITY_RULE.md](https://github.com/mossland/MosslandDeveloperSupportProgram/COMMUNITY_RULE.md)에 명시했습니다.
+- 기본적인 운영 규칙은 레포지토리의 [COMMUNITY_RULE.md](https://github.com/mossland/MosslandDeveloperSupportProgram/blob/main/COMMUNITY_RULE.md)에 명시했습니다.
