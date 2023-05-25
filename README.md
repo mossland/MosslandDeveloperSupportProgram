@@ -19,6 +19,10 @@
   - The specific range of rewards will be determined through collaboration with the Mossland Foundation during the project's development.
   - Factors taken into account for determining rewards include the development difficulty, the level of contribution to the Mossland ecosystem, and the project's development duration, among others.
 
+## Operating Rules
+- As the Developer Support Program involves a collaborative project with multiple developers, the etiquette of each individual participant is crucial.
+- The basic operating rules are specified in the [COMMUNITY_RULE.md]((https://github.com/mossland/MosslandDeveloperSupportProgram/COMMUNITY_RULE.md)) file of the repository.
+
 - - -
 
 ## Mossland Developer Support Program 개요
@@ -38,3 +42,7 @@
 - 개발에 참여한 개발자와 아이디어 제안자에게는 프로젝트의 진행 성과와 생태계 기여 정도에 따라 보상을 MOC로 지급받게 됩니다.
 - 보상의 구체적인 범위는 프로젝트를 개발하며 모스랜드 재단과 정하게됩니다.
 - 보상은 개발의 난이도, Mossland 생태계 기여 정도, 프로젝트 개발 기간 등에 따라 다르게 결정됩니다.
+
+## 운영 규칙
+- 개발자 지원 프로그램은 다수의 개발자가 참여하는 공동 프로젝트인 만큼 참여하는 개개인의 에티켓이 중요합니다.
+- 기본적인 운영 규칙은 레포지토리의 [COMMUNITY_RULE.md](https://github.com/mossland/MosslandDeveloperSupportProgram/COMMUNITY_RULE.md)에 명시했습니다.
