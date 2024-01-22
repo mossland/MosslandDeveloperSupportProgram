@@ -23,8 +23,24 @@
 - As the Developer Support Program involves a collaborative project with multiple developers, the etiquette of each individual participant is crucial.
 - The basic operating rules are specified in the [COMMUNITY_RULE.md](https://github.com/mossland/MosslandDeveloperSupportProgram/blob/main/COMMUNITY_RULE.md) file of the repository.
 
+## Supported Projects under Mossland Developer Support Program
+
+Mossland's Developer Support Program is fostering an array of innovative projects, contributing to the expansion and enrichment of the Mossland ecosystem. Below are some of the standout projects currently supported by the program:
+
+### Project Agora
+- **Overview**: Project Agora is a pioneering initiative aimed at establishing a decentralized governance framework within the Mossland ecosystem. It focuses on enabling active community participation in decision-making processes, reflecting the core values of transparency, collaboration, and innovation.
+- **Goals**: The primary objective of Agora is to serve as the democratic foundation of Mossland DAO, facilitating a platform where members can propose, discuss, and vote on crucial decisions that shape the future of Mossland.
+- **Milestones**:
+  - **Milestone #1 (2024/1/16 - 2024/2/15)**:
+    - Development of a comprehensive Product Requirement Document (PRD) focusing on Membership and Access Rights Management, DAO-Based Governance System, integration with existing voting mechanisms in the Mossland Metaverse, and forum-style communication channels within DAO.
+    - Creation of a detailed user flow and high-fidelity design of the product interface.
+- **Current Phase**: The project is currently in its initial milestone phase, which involves the development of a comprehensive Product Requirement Document (PRD). This phase focuses on aspects such as Membership and Access Rights Management, DAO-Based Governance System, and integration with existing voting mechanisms in the Mossland Metaverse.
+- **Expected Outcomes**: By the end of this phase, Agora aims to deliver a detailed user flow, high-fidelity design of the product interface, and a strategy for research and development that aligns with the community's needs.
+- **More Information**: [Project Agora Repository](https://github.com/mossland/Agora)
+
 ## Official Community
 [✋ Discord](https://discord.gg/N6RCGZuDqV)
+
 - - -
 
 ## Mossland Developer Support Program 개요
@@ -48,6 +64,21 @@
 ## 운영 규칙
 - 개발자 지원 프로그램은 다수의 개발자가 참여하는 공동 프로젝트인 만큼 참여하는 개개인의 에티켓이 중요합니다.
 - 기본적인 운영 규칙은 레포지토리의 [COMMUNITY_RULE.md](https://github.com/mossland/MosslandDeveloperSupportProgram/blob/main/COMMUNITY_RULE.md)에 명시했습니다.
+
+## 모스랜드 지원 프로젝트
+
+모스랜드의 개발자 지원 프로그램은 다양한 혁신적인 프로젝트들을 지원하며 모스랜드 생태계의 확장과 풍부함에 기여하고 있습니다. 아래는 현재 프로그램에서 지원하는 주목할만한 프로젝트들입니다:
+
+### 프로젝트 아고라
+- **개요**: 프로젝트 아고라는 모스랜드 생태계 내 분산 거버넌스 프레임워크를 구축하기 위한 선구적인 시도입니다. 이 프로젝트는 투명성, 협력, 혁신이라는 핵심 가치를 반영하며, 결정 과정에 커뮤니티의 적극적인 참여를 가능하게 하는 것에 중점을 둡니다.
+- **목표**: 아고라의 주요 목적은 모스랜드 DAO의 민주적 기반을 제공하는 것으로, 구성원들이 중요한 결정을 제안하고, 토론하며, 투표할 수 있는 플랫폼을 제공합니다.
+- **마일스톤**:
+  - **마일스톤 #1 (2024/1/16 - 2024/2/15)**:
+    - 멤버십 및 접근 권한 관리, DAO 기반 거버넌스 시스템, 모스랜드 메타버스의 기존 투표 메커니즘과의 통합, DAO 내 포럼 스타일 커뮤니케이션 채널에 초점을 맞춘 포괄적인 제품 요구 사항 문서(PRD) 개발.
+    - 상세한 사용자 흐름 및 고해상도 제품 인터페이스 디자인 생성.
+- **현재 단계**: 프로젝트는 현재 초기 마일스톤 단계에 있으며, 이 단계는 멤버십 및 접근 권한 관리, DAO 기반 거버넌스 시스템, 모스랜드 메타버스의 기존 투표 메커니즘과의 통합 등을 다루는 포괄적인 제품 요구 사항 문서(PRD) 개발을 포함합니다.
+- **예상 결과**: 이 단계가 끝나면 아고라는 상세한 사용자 흐름, 고해상도 디자인의 제품 인터페이스 및 커뮤니티의 요구와 일치하는 연구 및 개발 전략을 제공할 목표를 가지고 있습니다.
+- **더 많은 정보**: [프로젝트 아고라 저장소](https://github.com/mossland/Agora)
 
 ## 커뮤니티
 [✋ Discord](https://discord.gg/N6RCGZuDqV)
