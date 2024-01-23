@@ -38,6 +38,24 @@ Mossland's Developer Support Program is fostering an array of innovative project
 - **Expected Outcomes**: By the end of this phase, Agora aims to deliver a detailed user flow, high-fidelity design of the product interface, and a strategy for research and development that aligns with the community's needs.
 - **More Information**: [Project Agora Repository](https://github.com/mossland/Agora)
 
+### MossCoin for Machine
+- **Overview**: This project focuses on integrating MossCoin as a viable currency for machine-to-machine transactions. It explores the potential of MossCoin in facilitating automated transactions and settlements between various devices and systems within the Mossland ecosystem.
+- **Goals**: The main goal is to enable seamless and secure machine-to-machine transactions using MossCoin, enhancing the functionality and interoperability of different systems and devices in Mossland.
+- **Milestones**:
+  - **Milestone #1 (2024/2/1 - 2024/3/30)**:
+    - Development of protocols for secure machine-to-machine transactions.
+    - Integration of MossCoin as a transaction medium in test environments.
+- **Current Phase**: The project is currently in the protocol development stage, focusing on creating a secure and efficient framework for machine-to-machine transactions using MossCoin.
+- **Expected Outcomes**: The project aims to establish a fully functional prototype demonstrating MossCoin transactions between machines, paving the way for broader implementation.
+- **More Information**: [MossCoin for Machine Repository](https://github.com/mossland/MossCoinForMachine)
+
+### MossCoin AI & NFT Research
+- **Overview**: This project delves into the integration of AI technologies with NFTs within the Mossland ecosystem, exploring innovative ways to use MossCoin in this domain.
+- **Goals**: The objective is to research and develop AI-driven solutions for creating, managing, and trading NFTs, using MossCoin as the primary currency.
+- **Current Phase**: The project is in the research phase, focusing on identifying suitable AI technologies for NFT creation and management.
+- **Expected Outcomes**: The aim is to develop a proof-of-concept for AI-assisted NFTs that can be traded or managed using MossCoin, contributing to the innovative use of NFTs in Mossland.
+- **More Information**: [MossCoin AI & NFT Research Repository](https://github.com/mossland/MossCoin_AI_NFT_Research)
+
 ## Official Community
 [✋ Discord](https://discord.gg/N6RCGZuDqV)
 
@@ -69,7 +87,7 @@ Mossland's Developer Support Program is fostering an array of innovative project
 
 모스랜드의 개발자 지원 프로그램은 다양한 혁신적인 프로젝트들을 지원하며 모스랜드 생태계의 확장과 풍부함에 기여하고 있습니다. 아래는 현재 프로그램에서 지원하는 주목할만한 프로젝트들입니다:
 
-### 프로젝트 아고라
+### Project Agora
 - **개요**: 프로젝트 아고라는 모스랜드 생태계 내 분산 거버넌스 프레임워크를 구축하기 위한 선구적인 시도입니다. 이 프로젝트는 투명성, 협력, 혁신이라는 핵심 가치를 반영하며, 결정 과정에 커뮤니티의 적극적인 참여를 가능하게 하는 것에 중점을 둡니다.
 - **목표**: 아고라의 주요 목적은 모스랜드 DAO의 민주적 기반을 제공하는 것으로, 구성원들이 중요한 결정을 제안하고, 토론하며, 투표할 수 있는 플랫폼을 제공합니다.
 - **마일스톤**:
@@ -79,6 +97,24 @@ Mossland's Developer Support Program is fostering an array of innovative project
 - **현재 단계**: 프로젝트는 현재 초기 마일스톤 단계에 있으며, 이 단계는 멤버십 및 접근 권한 관리, DAO 기반 거버넌스 시스템, 모스랜드 메타버스의 기존 투표 메커니즘과의 통합 등을 다루는 포괄적인 제품 요구 사항 문서(PRD) 개발을 포함합니다.
 - **예상 결과**: 이 단계가 끝나면 아고라는 상세한 사용자 흐름, 고해상도 디자인의 제품 인터페이스 및 커뮤니티의 요구와 일치하는 연구 및 개발 전략을 제공할 목표를 가지고 있습니다.
 - **더 많은 정보**: [프로젝트 아고라 저장소](https://github.com/mossland/Agora)
+
+### MossCoin for Machine
+- **개요**: 이 프로젝트는 MossCoin을 기계 간 거래에 적합한 화폐로 통합하는 데 중점을 두고 있습니다. 이는 Mossland 생태계 내의 다양한 장치 및 시스템 간 자동 거래 및 결제를 용이하게 하는 MossCoin의 잠재력을 탐색합니다.
+- **목표**: MossCoin을 사용하여 기계 간의 원활하고 안전한 거래를 가능하게 하여 Mossland 내의 다양한 시스템 및 장치의 기능과 상호 운용성을 향상시키는 것입니다.
+- **이정표**:
+  - **1단계 (2024/2/1 - 2024/3/30)**:
+    - 기계 간 거래를 위한 안전한 프로토콜 개발.
+    - 테스트 환경에서 MossCoin을 거래 매체로 통합.
+- **현재 단계**: 프로젝트는 현재 MossCoin을 사용한 기계 간 거래를 위한 안전하고 효율적인 프레임워크를 만드는 프로토콜 개발 단계에 있습니다.
+- **예상 결과**: 프로젝트의 목표는 기계 간 MossCoin 거래를 시연하는 완전히 기능하는 프로토타입을 구축하는 것으로, 이를 통해 보다 넓은 범위의 구현을 위한 길을 열고자 합니다.
+- **자세한 정보**: [MossCoin for Machine Repository](https://github.com/mossland/MossCoinForMachine)
+
+### MossCoin AI & NFT Research
+- **개요**: 이 프로젝트는 Mossland 생태계 내에서 AI 기술과 NFT를 통합하는 것을 탐구하며, 이 분야에서 MossCoin을 사용하는 혁신적인 방법을 모색합니다.
+- **목표**: MossCoin을 주요 화폐로 사용하여 NFT를 생성, 관리 및 거래하기 위한 AI 기반 솔루션을 연구하고 개발하는 것입니다.
+- **현재 단계**: 프로젝트는 현재 NFT 생성 및 관리에 적합한 AI 기술을 식별하는 연구 단계에 있습니다.
+- **예상 결과**: 이 프로젝트의 목표는 MossCoin을 사용하여 거래하거나 관리할 수 있는 AI 보조 NFT의 개념 증명을 개발하는 것으로, Mossland에서 NFT의 혁신적인 사용에 기여하고자 합니다.
+- **자세한 정보**: [MossCoin AI & NFT Research Repository](https://github.com/mossland/MossCoin_AI_NFT_Research)
 
 ## 커뮤니티
 [✋ Discord](https://discord.gg/N6RCGZuDqV)
