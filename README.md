@@ -56,6 +56,13 @@ Mossland's Developer Support Program is fostering an array of innovative project
 - **Expected Outcomes**: The aim is to develop a proof-of-concept for AI-assisted NFTs that can be traded or managed using MossCoin, contributing to the innovative use of NFTs in Mossland.
 - **More Information**: [MossCoin AI & NFT Research Repository](https://github.com/mossland/MossCoin_AI_NFT_Research)
 
+### MosslandXR
+- **Overview**: MosslandXR is a research and development project focused on Extended Reality (XR) technologies within the Mossland ecosystem. It aims to explore and innovate in AR, VR, and MR to enhance user experiences in the metaverse.
+- **Goals**: Develop immersive XR applications that integrate seamlessly with the Mossland metaverse, pushing the boundaries of virtual interaction and digital environments.
+- **Current Phase**: Early development and research into XR technologies and their applications within the Mossland ecosystem.
+- **Expected Outcomes**: Deliver prototypes and a robust framework for XR applications, contributing to the broader vision of an immersive metaverse.
+- **More Information**: [MosslandXR Repository](https://github.com/mossland/MosslandXR)
+
 ## Official Community
 [✋ Discord](https://discord.gg/N6RCGZuDqV)
 
@@ -115,6 +122,13 @@ Mossland's Developer Support Program is fostering an array of innovative project
 - **현재 단계**: 프로젝트는 현재 NFT 생성 및 관리에 적합한 AI 기술을 식별하는 연구 단계에 있습니다.
 - **예상 결과**: 이 프로젝트의 목표는 MossCoin을 사용하여 거래하거나 관리할 수 있는 AI 보조 NFT의 개념 증명을 개발하는 것으로, Mossland에서 NFT의 혁신적인 사용에 기여하고자 합니다.
 - **자세한 정보**: [MossCoin AI & NFT Research Repository](https://github.com/mossland/MossCoin_AI_NFT_Research)
+
+### MosslandXR
+- **개요**: MosslandXR은 모스랜드 생태계 내의 확장 현실(XR) 기술에 중점을 둔 연구 및 개발 프로젝트입니다. AR, VR, MR에서의 탐구와 혁신을 통해 메타버스에서 사용자 경험을 향상시키고자 합니다.
+- **목표**: 모스랜드 메타버스와 원활하게 통합되는 몰입감 있는 XR 응용 프로그램을 개발하여 가상 상호 작용 및 디지털 환경의 한계를 넓히고자 합니다.
+- **현재 단계**: Mossland 생태계 내에서 XR 기술과 그 응용 프로그램에 대한 초기 개발 및 연구.
+- **예상 결과**: XR 응용 프로그램에 대한 프로토타입 및 견고한 프레임워크를 제공하여, 몰입감 있는 메타버스라는 보다 넓은 비전에 기여.
+- **자세한 정보**: [MosslandXR 저장소](https://github.com/mossland/MosslandXR)
 
 ## 커뮤니티
 [✋ Discord](https://discord.gg/N6RCGZuDqV)
