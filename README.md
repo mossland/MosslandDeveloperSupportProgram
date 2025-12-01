@@ -5,6 +5,16 @@
 - In order to incentivize developer participation and uphold the quality of open source development, Mossland has introduced the MOC Support Program for developers contributing to its open source projects.
 - Ideas and open source projects submitted through this repository or by email may be reviewed by Mossland DAO and receive MOC grants.
 
+
+## 🔑 What is this repository?
+
+This repository is the **hub for long-term, DAO-backed open source projects** in the Mossland ecosystem.
+
+- Start with an idea or prototype (e.g., via [`Hackathon`](https://github.com/mossland/Hackathon) or direct proposal).
+- If the project aligns with Mossland’s roadmap and ecosystem, it can enter this program.
+- The Mossland team then helps prepare **DAO (Agora) proposals** and manage **MOC grants & milestones** for selected projects.
+
+
 ## Participation Methods for Open Source
 
 ### Idea Proposals and Service Development Proposals
@@ -90,6 +100,15 @@ Mossland's Developer Support Program is fostering an array of innovative project
 - 모스랜드는 에코 시스템 발전을 위해 다양한 서비스들을 오픈소스로 개발하고 있습니다.
 - 개발자들의 참여 유도와 오픈소스 개발 품질 유지를 위해 Mossland 오픈소스 프로젝트 개발에 참여한 개발자들을 대상으로 MOC 지원 프로그램을 도입하게 됐습니다.
 - 이 레포지토리 또는 이메일을 통해 제안된 아이디어 및 오픈소스 프로젝트는 **모스랜드 DAO의 심사를 거쳐 MOC 지원금**을 받을 수 있습니다.
+
+## 🔑 이 레포지토리는 무엇인가요?
+
+이 레포지토리는 모스랜드 생태계에서 **장기적으로 운영되는, DAO와 연계된 오픈소스 프로젝트 허브**입니다.
+
+- 아이디어나 프로토타입은 [`Hackathon`](https://github.com/mossland/Hackathon) 리포 또는 이 레포지토리로 직접 제안하는 방식으로 시작할 수 있습니다.
+- 프로젝트가 모스랜드의 로드맵과 생태계 방향성에 잘 맞는 경우, 이 Developer Support Program에 편입될 수 있습니다.
+- 선정된 프로젝트에 대해서는 모스랜드 팀이 **DAO(Agora) 제안 작성**을 함께 준비하고, **MOC 지원금 및 마일스톤 관리**를 지원합니다.
+
 
 ## 오픈소스 참여 방법
 
